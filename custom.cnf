@@ -1,0 +1,7 @@
+# Customize mariadb configuration
+
+[mariadb]
+max_allowed_packet=100M
+
+[mysqldump]
+max_allowed_packet=100M
